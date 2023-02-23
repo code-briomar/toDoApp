@@ -206,3 +206,16 @@ package-lock.json
 
 # Temporary files created by Metro to check the health of the file watcher
 .metro-health-check*
+
+
+
+### Others 
+
+node_modules/
+ios/Pods/
+ios/Podfile.lock
+ios/build/
+android/build/
+android/app/build/
+.expo/
+*.log
